@@ -1,4 +1,4 @@
-﻿namespace WinFormsApp1
+namespace WinFormsApp1
 {
     partial class Form1
     {
@@ -148,11 +148,11 @@
             // 
             this.Bright.AutoSize = true;
             this.Bright.BackColor = System.Drawing.Color.Transparent;
-            this.Bright.Location = new System.Drawing.Point(631, 382);
+            this.Bright.Location = new System.Drawing.Point(588, 379);
             this.Bright.Name = "Bright";
-            this.Bright.Size = new System.Drawing.Size(151, 20);
+            this.Bright.Size = new System.Drawing.Size(193, 20);
             this.Bright.TabIndex = 8;
-            this.Bright.Text = "Gradient brightness:";
+            this.Bright.Text = "Gradient darkness(0-100):";
             this.Bright.Visible = false;
             this.Bright.Click += new System.EventHandler(this.Bright_Click);
             // 

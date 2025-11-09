@@ -1,2 +1,2 @@
 # ThemeMaker
- A garbage winforms app i made last year to put a custom bg into a discord theme. 
+ A winforms app i made to put a custom background into a discord theme. 
